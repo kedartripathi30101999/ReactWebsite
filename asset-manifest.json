@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactWebsite/static/css/main.31d6cfe0.css",
+    "main.js": "/ReactWebsite/static/js/main.e0c13926.js",
+    "static/media/service6.jpeg": "/ReactWebsite/static/media/service6.f237c696b92b61912269.jpeg",
+    "static/media/service5.jpeg": "/ReactWebsite/static/media/service5.7f5e95f2437a6ce0f87e.jpeg",
+    "static/media/service1.jpeg": "/ReactWebsite/static/media/service1.019fcceff770904deed9.jpeg",
+    "static/media/service2.jpeg": "/ReactWebsite/static/media/service2.7ef4f4bc8f8be7a1ed2f.jpeg",
+    "static/media/service4.jpeg": "/ReactWebsite/static/media/service4.feec5937c9eafa34d70a.jpeg",
+    "static/media/home.jpeg": "/ReactWebsite/static/media/home.71cf82548b4a9285e408.jpeg",
+    "static/media/about.jpeg": "/ReactWebsite/static/media/about.97acda16f1cc3bf16c4d.jpeg",
+    "static/media/logo.png": "/ReactWebsite/static/media/logo.4bc201ce67e26bbb1c39.png",
+    "static/media/service3.jpeg": "/ReactWebsite/static/media/service3.6a050318eb049b76b9e8.jpeg",
+    "index.html": "/ReactWebsite/index.html",
+    "main.e0c13926.js.map": "/ReactWebsite/static/js/main.e0c13926.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e0c13926.js"
+  ]
+}
